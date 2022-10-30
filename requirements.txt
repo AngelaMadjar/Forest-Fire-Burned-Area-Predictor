@@ -1,0 +1,7 @@
+numpy
+flask
+pickle-mixin
+sklearn
+requests
+sklearn-rvm
+gunicorn
